@@ -16,7 +16,7 @@ int main(int argc, char const *argv[])
         printf("sanhol\n");
         break;
     case 4:
-        printf("vikendi\n");
+        printf("Sagar chhikara\n");
         break;
     default:
         printf("Invalid input");
